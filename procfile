@@ -1,0 +1,1 @@
+web: gunicorn Current_Affairs.wsgi
